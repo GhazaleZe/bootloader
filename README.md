@@ -13,12 +13,11 @@ $ nasm -f bin mybootloader.asm -o mybootloader.bin
 ```
 Then by app ultraISO make .iso file from .bin file and make new virtual machine and run it and see the screenshots that I put in the file
 
-# resourses:
-TA class @payamnaghdy
-https://www.youtube.com/watch?v=dTd_b1WWBLM
-https://sreeramz.wordpress.com/2012/11/21/hello-world-boot-loader/
-https://www.viralpatel.net/taj/tutorial/hello_world_bootloader.php
-
+# resources:
+- TA class @payamnaghdy 
+- https://www.youtube.com/watch?v=dTd_b1WWBLM
+- https://sreeramz.wordpress.com/2012/11/21/hello-world-boot-loader/
+- https://www.viralpatel.net/taj/tutorial/hello_world_bootloader.php
 Ghazale Zehtab 
 
 thank you:)
